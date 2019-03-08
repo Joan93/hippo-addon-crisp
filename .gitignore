@@ -8,3 +8,10 @@ classes/
 overlays/
 .idea/
 *.iml
+\.project
+
+\.settings/
+
+\.classpath
+
+storage
